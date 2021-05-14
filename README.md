@@ -9,10 +9,10 @@ python3 -m venv yourvenv
 source yourvenv/bin/activate
 
 # pip install the following 
-streamlit
-pandas
-yfinance
-cufflinks 
+* streamlit
+* pandas
+* yfinance
+* cufflinks 
 
 # start the streamlit app
 streamlit run app.py
