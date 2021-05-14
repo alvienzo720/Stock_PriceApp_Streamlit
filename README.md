@@ -14,7 +14,7 @@ pandas
 yfinance
 cufflinks 
 
-#start the streamlit app
+# start the streamlit app
 streamlit run app.py
 
 ## Hoorya your good to go enjoy
